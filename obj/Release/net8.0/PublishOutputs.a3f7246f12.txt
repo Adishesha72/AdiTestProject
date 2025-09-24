@@ -1,0 +1,7 @@
+C:\Users\adish\source\repos\ProjectTestWebApp2\ProjectTestWebApp2\obj\Release\net8.0\PubTmp\Out\ProjectTestWebApp2.exe
+C:\Users\adish\source\repos\ProjectTestWebApp2\ProjectTestWebApp2\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\adish\source\repos\ProjectTestWebApp2\ProjectTestWebApp2\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\adish\source\repos\ProjectTestWebApp2\ProjectTestWebApp2\obj\Release\net8.0\PubTmp\Out\ProjectTestWebApp2.dll
+C:\Users\adish\source\repos\ProjectTestWebApp2\ProjectTestWebApp2\obj\Release\net8.0\PubTmp\Out\ProjectTestWebApp2.deps.json
+C:\Users\adish\source\repos\ProjectTestWebApp2\ProjectTestWebApp2\obj\Release\net8.0\PubTmp\Out\ProjectTestWebApp2.runtimeconfig.json
+C:\Users\adish\source\repos\ProjectTestWebApp2\ProjectTestWebApp2\obj\Release\net8.0\PubTmp\Out\ProjectTestWebApp2.pdb
